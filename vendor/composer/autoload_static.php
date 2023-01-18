@@ -10,6 +10,7 @@ class ComposerStaticInite0e96d178a6e3585509e75f38bc5cb56
         'P' => 
         array (
             'Psr\\Log\\' => 8,
+            'Programmerzamannow\\BelajarPhpComposerHello\\' => 43,
             'Progammerzamannow\\BelajarPhpComposer\\' => 37,
         ),
         'M' => 
@@ -22,6 +23,10 @@ class ComposerStaticInite0e96d178a6e3585509e75f38bc5cb56
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/src',
+        ),
+        'Programmerzamannow\\BelajarPhpComposerHello\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/programmerzamannow/belajar-php-composer-hello/src',
         ),
         'Progammerzamannow\\BelajarPhpComposer\\' => 
         array (

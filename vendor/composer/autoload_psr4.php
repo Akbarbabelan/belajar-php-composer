@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
+    'Programmerzamannow\\BelajarPhpComposerHello\\' => array($vendorDir . '/programmerzamannow/belajar-php-composer-hello/src'),
     'Progammerzamannow\\BelajarPhpComposer\\' => array($baseDir . '/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
 );

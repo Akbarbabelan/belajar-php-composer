@@ -105,6 +105,45 @@
             "install-path": "../monolog/monolog"
         },
         {
+            "name": "programmerzamannow/belajar-php-composer-hello",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Akbarbabelan/belajar-php-composer-hello.git",
+                "reference": "a2d71c7e795149695b09fd1e8d21d0ea2c48183d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Akbarbabelan/belajar-php-composer-hello/zipball/a2d71c7e795149695b09fd1e8d21d0ea2c48183d",
+                "reference": "a2d71c7e795149695b09fd1e8d21d0ea2c48183d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "time": "2023-01-18T09:11:42+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "Programmerzamannow\\BelajarPhpComposerHello\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Akbarbabelan",
+                    "email": "babelan96@gmail.com"
+                }
+            ],
+            "description": "Library Composer Hello",
+            "support": {
+                "source": "https://github.com/Akbarbabelan/belajar-php-composer-hello/tree/1.0.0",
+                "issues": "https://github.com/Akbarbabelan/belajar-php-composer-hello/issues"
+            },
+            "install-path": "../programmerzamannow/belajar-php-composer-hello"
+        },
+        {
             "name": "psr/log",
             "version": "3.0.0",
             "version_normalized": "3.0.0.0",
